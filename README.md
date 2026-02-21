@@ -42,17 +42,17 @@ Mình tập trung làm nội dung đều đặn trong 90 ngày, tối ưu mỗi 
 
 > Ngành bạn theo đuổi: **Personal Branding trên Facebook** (mục tiêu: tăng nhận diện + bật kiếm tiền từ nội dung).
 
-### Chân dung khách hàng mục tiêu
+### Chân dung khán giả mục tiêu
 - Người mới bắt đầu làm nội dung cá nhân nhưng chưa có định vị rõ.
 - Người đăng đều nhưng ít reach, ít bình luận, chưa có inbox chất lượng.
 - Freelancer/coach/creator muốn biến nội dung thành doanh thu đầu tiên.
 
-### Offer kiếm tiền cốt lõi
+### Hệ sản phẩm/dịch vụ để kiếm tiền
 1. **Gói mồi**: Review profile + kế hoạch nội dung 7 ngày.
 2. **Gói chính**: Đồng hành 1:1 trong 4 tuần (định vị, content, chốt inbox).
 3. **Sản phẩm số**: Template hook/CTA/lịch content 30 ngày.
 
-## Kế hoạch 30 ngày chi tiết từng ngày
+### Kế hoạch 30 ngày chi tiết từng ngày
 
 | Ngày | Chủ đề bài viết | Hook mẫu | CTA mẫu | Cách dẫn về inbox |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ Mình tập trung làm nội dung đều đặn trong 90 ngày, tối ưu mỗi 
 | 25 | Cách định giá 3 tầng | "Giá thấp chưa chắc dễ chốt hơn." | Comment `DINHGIA` | Gửi khung giá mồi/chính/cao cấp |
 | 26 | Checklist hệ thống content | "90 phút/tuần để không bao giờ bí content." | Comment `HETHONG` | Gửi template Notion/Sheet |
 | 27 | Hậu trường làm việc | "Đây là cách mình chuẩn bị 1 bài ra khách." | Comment `HAUTRUONG` | Gửi video + đề xuất gói mentoring |
-| 28 | Mở slot đồng hành 1:1 | "Mình mở 5 slot đồng hành tháng tới." | Comment `1-1` | Inbox lọc mục tiêu rồi hẹn call |
+| 28 | Mở slot đồng hành 1:1 | "Mình mở 5 slot đồng hành tháng tới." | Comment `1:1` | Inbox lọc mục tiêu rồi hẹn call |
 | 29 | Tổng hợp testimonial | "Kết quả khách hàng là tài sản lớn nhất của mình." | Comment `KQ` | Hỏi mục tiêu và vướng mắc hiện tại |
 | 30 | Tổng kết 30 ngày + CTA lớn | "30 ngày qua: điều gì tạo ra kết quả lớn nhất?" | Comment `PLAN30` | Gửi plan tháng 2 + mời chốt gói |
 
