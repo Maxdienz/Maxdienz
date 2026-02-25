@@ -1,0 +1,1 @@
+tên: Đồng bộ hóa liên kết rút gọn trên: đẩy: nhánh: [chính] đường dẫn: - 'shortio.yaml' công việc: đồng bộ: chạy trên: ubuntu-latest các bước: - sử dụng: actions/checkout@v4 - sử dụng: Short-io/link-sync-action@v1 với: khóa API: ${{ secrets.SHORTIO_API_KEY }}
